@@ -1,17 +1,19 @@
-# 철상 · 鐵想 · Irondenker
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./logo-hangul-dark.svg">
-    <img src="./logo-hangul-light.svg" width="175">
+    <source media="(prefers-color-scheme: dark)" srcset="./logo-hangul-light.svg">
+    <img src="./logo-hangul-dark.svg" width="175">
   </picture>
+</p>
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./logo-hanja-dark.svg">
-    <img src="./logo-hanja-light.svg" width="175">
+    <source media="(prefers-color-scheme: dark)" srcset="./logo-hanja-light.svg">
+    <img src="./logo-hanja-dark.svg" width="175">
   </picture>
+</p>
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./logo-roman-dark.svg">
-    <img src="./logo-roman-light.svg" width="300">
+    <source media="(prefers-color-scheme: dark)" srcset="./logo-roman-light.svg">
+    <img src="./logo-roman-dark.svg" width="300">
   </picture>
 </p>
 
@@ -30,20 +32,20 @@ I hunt down, hack open, and heal up the gaps.
 
 ---
 
+<p align="center">
+  <strong>Web/App Application Security</strong><br/>
+  <strong>Secure Coding</strong><br/>
+  <strong>Offensive Research</strong><br/>
+</p>
 
-## 🔗 Links
-- 🌐 [Irondenker](https://irondenker.com)
-- 📝 [Blog](https://irondenker.tistory.com)
-- 📧 cyw5066@naver.com
-
-
-## 🧠 Focus
-- Web/App Application Security
-- Secure Coding
-- Offensive Research
-
+---
 
 <p align="center">
+  <sub>
+    <a href="https://irondenker.com">Website</a> · 
+    <a href="https://irondenker.tistory.com">Blog</a> · 
+    <a href="https://irondenker.tistory.comhttps://www.linkedin.com/in/youngwoo-cho-598b48265">LinkedIn</a><br/>
+  </sub>
   <sub>
   철상 · 鐵想 · Irondenker<br/>
   © 2025–2026 Irondenker™. All rights reserved.
