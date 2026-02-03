@@ -1,16 +1,51 @@
-## Hi there 👋
+# 철상 · 鐵想 · Irondenker
 
-<!--
-**irondenker/irondenker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-hangul-dark.svg">
+    <img src="./assets/logo-hangul-light.svg" width="175">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-hanja-dark.svg">
+    <img src="./assets/logo-hanja-light.svg" width="175">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-roman-dark.svg">
+    <img src="./assets/logo-roman-light.svg" width="300">
+  </picture>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">
+ Surmount the Language, Structure and Logic.
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+ Penetration Tester · Whitehat Hacker
+</h3>
+
+<p align="center">
+A castaway searching for the cast-aside yet significant.<br>
+I hunt down, hack open, and heal up the gaps.
+</p>
+
+---
+
+
+## 🔗 Links
+- 🌐 [Irondenker](https://irondenker.com)
+- 📝 [Blog](https://irondenker.tistory.com)
+- 📧 cyw5066@naver.com
+
+
+## 🧠 Focus
+- Web/App Application Security
+- Secure Coding
+- Offensive Research
+
+
+<p align="center">
+  <sub>
+  철상 · 鐵想 · Irondenker<br/>
+  © 2025–2026 Irondenker™. All rights reserved.
+  </sub>
+</p>
