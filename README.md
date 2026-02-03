@@ -44,7 +44,7 @@ I hunt down, hack open, and heal up the gaps.
   <sub>
     <a href="https://irondenker.com">Website</a> · 
     <a href="https://irondenker.tistory.com">Blog</a> · 
-    <a href="https://irondenker.tistory.comhttps://www.linkedin.com/in/youngwoo-cho-598b48265">LinkedIn</a><br/>
+    <a href="https://www.linkedin.com/in/youngwoo-cho-598b48265">LinkedIn</a><br/>
   </sub>
   <sub>
   철상 · 鐵想 · Irondenker<br/>
