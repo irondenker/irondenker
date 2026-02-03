@@ -2,16 +2,16 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-hangul-dark.svg">
-    <img src="./assets/logo-hangul-light.svg" width="175">
+    <source media="(prefers-color-scheme: dark)" srcset="./logo-hangul-dark.svg">
+    <img src="./logo-hangul-light.svg" width="175">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-hanja-dark.svg">
-    <img src="./assets/logo-hanja-light.svg" width="175">
+    <source media="(prefers-color-scheme: dark)" srcset="./logo-hanja-dark.svg">
+    <img src="./logo-hanja-light.svg" width="175">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-roman-dark.svg">
-    <img src="./assets/logo-roman-light.svg" width="300">
+    <source media="(prefers-color-scheme: dark)" srcset="./logo-roman-dark.svg">
+    <img src="./logo-roman-light.svg" width="300">
   </picture>
 </p>
 
