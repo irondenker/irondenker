@@ -33,9 +33,9 @@ I hunt down, hack open, and heal up the gaps.
 ---
 
 <p align="center">
-  <strong>Web/App Application Security</strong><br/>
+  <strong>Web/Mobile Application Security</strong><br/>
   <strong>Secure Coding</strong><br/>
-  <strong>Offensive Research</strong><br/>
+  <strong>Red Team Engineering</strong><br/>
 </p>
 
 ---
